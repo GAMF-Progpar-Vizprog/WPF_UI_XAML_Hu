@@ -1,7 +1,7 @@
-﻿<Application x:Class="WPF_XAML.App"
+﻿<Application x:Class="WPF_UI_XAML_Hu.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:WPF_XAML"
+             xmlns:local="clr-namespace:WPF_UI_XAML_Hu"
              StartupUri="wndAblak.xaml">
     <Application.Resources>
          

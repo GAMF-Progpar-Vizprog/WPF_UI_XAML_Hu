@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace WPF_XAML
+namespace WPF_UI_XAML_Hu
 {
 	/// <summary>
 	/// A felületet XAML-ben készítettük. A C# állomány csak
